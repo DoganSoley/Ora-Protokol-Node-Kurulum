@@ -68,3 +68,5 @@ Daha sonra node'ye tekrar geri gelip log kontrol kodunu tekrar yazın ;
 ![image](https://github.com/user-attachments/assets/eabee640-9e6d-4725-a70d-69fe10c75cbd)
 
 Bu şekilde bir tx çıktısı aldıysanız tamamdır CTRL + C ile veya direkt terminali kapatarak çıkabilirsiniz o çalışmaya devam eder.Kontrol etmek için 1-2 günde bir girip arada log kontrol koduyla çalışıp çalışmadığına bakabilirsiniz.
+
+Puanlarınızı bu [Link](https://www.ora.io/app/tasks/dashboard)'den kontrol edebilirsiniz.
