@@ -20,6 +20,8 @@ Yeni kayıt olanlara digitalocean 2 aylık 200$ free hesap veriyor daha önce ku
 
 İlk başta bir tane metamask cüzdanı kuralım veya mevcutta varsa onu da kullanabilirsiniz.(içerisinde varlık olan cüzdanı kullanmanızı tavsiye etmiyorum yeni açın ne olur ne olmaz)
 
-Kurulumda kullanacağımız rpc'yi ben Alchemy'den aldım [Alchemy Link](https://dashboard.alchemy.com/)
+Kurulumda RPC kullanıcaz ben Alchemy'den aldım [Alchemy Link](https://dashboard.alchemy.com/)
+
+ETH Sepolia ağında da test ETH'ye ihtiyacımız olacak bunun için herhangi bir yerden faucet alabilirsiniz ben google'nin faucetini kullanıyorum gmail ile giriş yapıp alabilirsiniz. [ETH Sepolia Faucet Link](https://cloud.google.com/application/web3/faucet/ethereum)
 
 Kurulumdan önce RPC'leri ve Faucet'i hazır edin.
