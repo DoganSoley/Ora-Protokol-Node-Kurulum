@@ -33,5 +33,5 @@ wget https://raw.githubusercontent.com/DoganSoley/Ora-Protokol-Node-Kurulum/main
 ```
 Yükleme bittikten sonra metamask özel anahtarınızı girmenizi isteyecek nerden bakıldığınız bilmiyorsanız ;
 
-![Ekran Alıntısı](https://github.com/user-attachments/assets/33ad25e6-3f92-46a4-81ca-9c3509402ba4)
+![Ekran Alıntısı](https://github.com/user-attachments/assets/b2036c32-0f90-4c5c-8c7e-ed0765f92104)
 
