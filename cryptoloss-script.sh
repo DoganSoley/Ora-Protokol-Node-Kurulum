@@ -1,7 +1,11 @@
 #!/bin/bash
 
+# Renk kodları
+RED='\033[0;31m'
 GREEN='\033[0;32m'
-NC='\033[0m' # No Color
+YELLOW='\033[0;33m'
+BLUE='\033[0;34m'
+NC='\033[0m'
 
 # Ora Protokol Node Kurulum Script'i
 
@@ -78,7 +82,7 @@ echo "|"
 echo "|"
 echo -e "${GREEN}Ora Protokol Node kurulumu tamamlandı.${NC}"
 echo "|"
-echo -e "${GREEN}Log kontrol için :${NC}""${YELLOW}docker logs -f ora-tora${NC}"
+echo -e "${GREEN}Log kontrol için : ${NC}""${YELLOW}docker logs -f ora-tora${NC}"
 echo "|"
 echo -e "${YELLOW}Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz.${NC}"
 
