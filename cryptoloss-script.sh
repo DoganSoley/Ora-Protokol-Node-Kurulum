@@ -60,4 +60,13 @@ echo "#### Twitter : @Cryptoloss1 #####"
 echo "Ora Protokol node'u başlatılıyor..."
 docker-compose up -d
 
+
 echo "Ora Protokol Node kurulumu tamamlandı."
+
+echo "Log kontrol için : docker logs -f ora-tora"
+
+echo "Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz."
+
+
+
+
