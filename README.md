@@ -16,7 +16,7 @@ Ben hetzner'in cx32 6.30€'luk sunucusunu aldım yeterli olur.
 
 Yeni kayıt olanlara digitalocean 2 aylık 200$ free hesap veriyor daha önce kullanmadıysanız bu [Link](https://t.co/5O8WuAtuHs)'e gidip kayıt olarak ücretsiz sunucu alabilirsiniz.
 
-Kurulum videosu : [Link](https://youtu.be/)
+Kurulum videosu : [Link](https://www.youtube.com/@Cryptoloss)
 
 İlk başta bir tane metamask cüzdanı kuralım veya mevcutta varsa onu da kullanabilirsiniz.(içerisinde varlık olan cüzdanı kullanmanızı tavsiye etmiyorum yeni açın ne olur ne olmaz)
 
