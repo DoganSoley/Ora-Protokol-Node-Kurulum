@@ -26,7 +26,7 @@ ETH Sepolia ağında da test ETH'ye ihtiyacımız olacak bunun için herhangi bi
 
 Kurulumdan önce RPC'leri ve Faucet'i hazır edin.
 
-Başlamadan önce Bu[Link](https://www.ora.io/app/points-program)'e giderek metamaskınızı bağlayın ve kayıt olun referans kısmına benim referans kodumu girebilirsiniz size 5 puan verecek. 
+Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek metamaskınızı bağlayın ve kayıt olun referans kısmına benim referans kodumu girebilirsiniz size 5 puan verecek. 
 
 Ref Kodum ;
 
