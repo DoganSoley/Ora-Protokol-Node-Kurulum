@@ -45,7 +45,7 @@ Yükleme bittikten sonra metamask özel anahtarınızı girmenizi isteyecek nerd
 
 Özel anahtarı girdikten sonra sizden WSS ve HTTP isteyecek Alchemyden aldığınız Mainnet ve Sepolia HTTP ve WSS'leri istediği sırayla girin.
 
-Daha sonra yüklenmenin bitmesini bekleyin yükleme bittikten sonra ;
+Daha sonra yüklenmenin bitmesini bekleyin (5-10dk sürebilir) yükleme bittikten sonra ;
 
 ```
 docker logs -f ora-tora
