@@ -28,7 +28,7 @@ Kurulumdan önce RPC'leri ve Faucet'i hazır edin.
 
 Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek metamaskınızı bağlayın ve kayıt olun referans kısmına benim referans kodumu girebilirsiniz size 5 puan verecek. 
 
-> **Ref Kodum : NZSSYZ **
+> **Ref Kodum : NZSSYZ**
 
 
 
