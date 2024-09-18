@@ -1,6 +1,6 @@
 ![GRAiWvUbsAARfpK](https://github.com/user-attachments/assets/4508306b-a99e-4cd3-8fdf-42f26ee00265)
 
-Kurulum videosu (eski kurulum fakat hiç bilmeyenler için yararlı olur izleyin) : [Link](https://youtu.be/SDNW5IrkLuc)
+Kurulum videosu  : [Link](https://youtu.be/)
 
 # Ora Protokol Node Kurulumu
 
