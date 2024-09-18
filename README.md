@@ -2,7 +2,7 @@
 
 # Ora Protokol Node Kurulumu
 
-# Sunucu Gereksinimleri
+# Minimum Sunucu Gereksinimleri
 
 8 GB RAM
 
