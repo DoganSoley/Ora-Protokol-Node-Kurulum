@@ -59,23 +59,23 @@ sed -i "s|SEPOLIA_WSS=\"\"|SEPOLIA_WSS=\"${SEPOLIA_WSS}\"|" .env
 sed -i "s|SEPOLIA_HTTP=\"\"|SEPOLIA_HTTP=\"${SEPOLIA_HTTP}\"|" .env
 
 # 8. CRYPTOLOSS
-echo "|"
-echo "|"
-echo "|"
+echo " "
+echo " "
+echo " "
 echo -e "${BLUE}#########################################${NC}"
 echo -e "${BLUE}#                                       #${NC}"
 echo -e "${BLUE}#            CRYPTOLOSS                 #${NC}"
 echo -e "${BLUE}#                                       #${NC}"
 echo -e "${BLUE}#########################################${NC}"
-echo "|"
-echo "|"
+echo " "
+echo " "
 echo -e "${GREEN}#### Twitter : @Cryptoloss1 #####${NC}"
-echo "|"
-echo "|"
+echo " "
+echo " "
 # 9. Docker Compose kullanarak node'u başlat
 echo -e "${GREEN}Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir...${NC}"
-echo "|"
-echo "|"
+echo " "
+echo " "
 sysctl vm.overcommit_memory=1
 docker-compose up -d
 echo "|"
@@ -84,7 +84,7 @@ echo -e "${GREEN}Ora Protokol Node kurulumu tamamlandı.${NC}"
 echo "|"
 echo -e "${GREEN}Log kontrol için : ${NC}""${YELLOW}docker logs -f ora-tora${NC}"
 echo "|"
-echo -e "${YELLOW}Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz.${NC}"
+echo -e "${GREEN}Sorularınız için ${NC}""${YELLOW}t.me/CryptolossChat${NC}""${GREEN} telegram kanalına gelebilirsiniz.${NC}"
 
 
 
