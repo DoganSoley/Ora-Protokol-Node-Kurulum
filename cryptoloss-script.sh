@@ -54,7 +54,12 @@ echo "#            CRYPTOLOSS                 #"
 echo "#                                       #"
 echo "#########################################"
 
+
+
 echo "#### Twitter : @Cryptoloss1 #####"
+
+
+
 
 # 9. Docker Compose kullanarak node'u başlat
 echo "Ora Protokol node'u başlatılıyor..."
