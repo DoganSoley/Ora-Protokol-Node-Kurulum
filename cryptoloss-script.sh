@@ -15,7 +15,7 @@ sudo apt update -y
 sudo apt-get install docker-ce docker-compose -y
 
 # 3. Önbelleğe alınmış GitHub kimlik bilgilerini temizle (varsa)
-echo "Önbelleğe alınmış GitHub kimlik bilgileri temizleniyor..."
+
 git config --global --unset credential.helper
 
 # 4. Ora Protokol repository'sini HTTPS kullanarak klonla (public repo)
@@ -26,8 +26,9 @@ cd tora-docker-compose
 # 5. .env.example dosyasını .env olarak kopyala
 echo ".env.example dosyası .env olarak kopyalanıyor..."
 cp .env.example .env
-""
-""
+echo
+echo
+echo
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
 echo "Metamask Özel Anahtarınızı girin:"
 read PRIVATE_KEY
@@ -49,32 +50,32 @@ sed -i "s|SEPOLIA_WSS=\"\"|SEPOLIA_WSS=\"${SEPOLIA_WSS}\"|" .env
 sed -i "s|SEPOLIA_HTTP=\"\"|SEPOLIA_HTTP=\"${SEPOLIA_HTTP}\"|" .env
 
 # 8. CRYPTOLOSS
-""
-""
-""
-""
+echo
+echo
+echo
+echo
 echo "#########################################"
 echo "#                                       #"
 echo "#            CRYPTOLOSS                 #"
 echo "#                                       #"
 echo "#########################################"
-""
-""
+echo
+echo
 echo "#### Twitter : @Cryptoloss1 #####"
-""
-""
-""
+echo
+echo
+echo
 # 9. Docker Compose kullanarak node'u başlat
 echo "Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir..."
 sysctl vm.overcommit_memory=1
 docker-compose up -d
-""
-""
+echo
+echo
 echo "Ora Protokol Node kurulumu tamamlandı."
-""
+echo
 echo "Log kontrol için : docker logs -f ora-tora"
-""
-""
+echo
+echo
 echo "Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz."
 
 
