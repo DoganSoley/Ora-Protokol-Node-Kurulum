@@ -64,6 +64,7 @@ print()
 print()
 # 9. Docker Compose kullanarak node'u başlat
 echo "Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir..."
+sysctl vm.overcommit_memory=1
 docker-compose up -d
 
 
