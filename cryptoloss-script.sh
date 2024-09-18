@@ -48,31 +48,33 @@ sed -i "s|SEPOLIA_WSS=\"\"|SEPOLIA_WSS=\"${SEPOLIA_WSS}\"|" .env
 sed -i "s|SEPOLIA_HTTP=\"\"|SEPOLIA_HTTP=\"${SEPOLIA_HTTP}\"|" .env
 
 # 8. CRYPTOLOSS
-print()
-print()
-print()
+.
+.
+.
+.
+
 echo "#########################################"
 echo "#                                       #"
 echo "#            CRYPTOLOSS                 #"
 echo "#                                       #"
 echo "#########################################"
-print()
-print()
+.
+.
 echo "#### Twitter : @Cryptoloss1 #####"
-print()
-print()
-print()
+.
+.
+.
 # 9. Docker Compose kullanarak node'u başlat
 echo "Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir..."
 sysctl vm.overcommit_memory=1
 docker-compose up -d
-
-
+.
+.
 echo "Ora Protokol Node kurulumu tamamlandı."
-print()
+.
 echo "Log kontrol için : docker logs -f ora-tora"
-print()
-print()
+.
+.
 echo "Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz."
 
 
