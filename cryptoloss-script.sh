@@ -34,7 +34,7 @@ echo "|"
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
 echo -e "${GREEN}Metamask Özel Anahtarınızı girin:${NC}"
 read PRIVATE_KEY
-echo "ETH MAINNET WSS URL'nizi girin:"
+echo -e "${GREEN}ETH MAINNET WSS URL'nizi girin:${NC}"
 read MAINNET_WSS
 echo "ETH MAINNET HTTP URL'nizi girin:"
 read MAINNET_HTTP
