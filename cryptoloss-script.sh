@@ -56,7 +56,7 @@ echo -e "${GREEN}ETH SEPOLIA HTTP URL'nizi Girin:${NC}"
 read SEPOLIA_HTTP
 
 # 7. .env dosyasındaki boş değerleri kullanıcı girdileri ile güncelle
-echo -e "${YELLOW}.env dosyası kullanıcı girdileri ile güncelleniyor...${NC}"
+echo -e "${YELLOW}.env dosyası güncelleniyor...${NC}"
 sed -i "s|PRIV_KEY=\"\"|PRIV_KEY=\"${PRIVATE_KEY}\"|" .env
 sed -i "s|MAINNET_WSS=\"\"|MAINNET_WSS=\"${MAINNET_WSS}\"|" .env
 sed -i "s|MAINNET_HTTP=\"\"|MAINNET_HTTP=\"${MAINNET_HTTP}\"|" .env
