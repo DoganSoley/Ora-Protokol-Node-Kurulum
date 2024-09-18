@@ -31,7 +31,7 @@ Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek met
 Ref Kodum ;
 
 ```
-NZSSYZ
+# NZSSYZ
 ```
 
 Kurulum tek kod halinde sunucuya bağlandıktan sonra direkt bu kodu girin yüklenirken arada ENTER diye soracak ENTER'a tıklayıp devam edin.
