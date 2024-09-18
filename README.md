@@ -25,3 +25,12 @@ Kurulumda RPC kullanıcaz ben Alchemy'den aldım [Alchemy Link](https://dashboar
 ETH Sepolia ağında da test ETH'ye ihtiyacımız olacak bunun için herhangi bir yerden faucet alabilirsiniz ben google'nin faucetini kullanıyorum gmail ile giriş yapıp alabilirsiniz. [ETH Sepolia Faucet Link](https://cloud.google.com/application/web3/faucet/ethereum)
 
 Kurulumdan önce RPC'leri ve Faucet'i hazır edin.
+
+Kurulum tek kod halinde direkt bu kodu girin yüklenirken arada ENTER diye soracak ENTER'a tıklayıp devam edin.
+
+```
+wget https://raw.githubusercontent.com/DoganSoley/Ora-Protokol-Node-Kurulum/main/cryptoloss-script.sh && chmod +x cryptoloss-script.sh && ./cryptoloss-script.sh
+```
+Yükleme bittikten sonra metamask özel anahtarınızı girmenizi isteyecek nerden bakıldığınız bilmiyorsanız ;
+
+![Ekran Alıntısı](https://github.com/user-attachments/assets/347b039c-fd7f-4dd3-b14a-db72c13fe835) ![2](https://github.com/user-attachments/assets/76177c54-756d-4c02-a0cd-cc4841e72f85) ![3](https://github.com/user-attachments/assets/755389d6-68af-46f4-800b-323a1a716526)
