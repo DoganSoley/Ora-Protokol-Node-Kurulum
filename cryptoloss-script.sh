@@ -1,5 +1,8 @@
 #!/bin/bash
 
+GREEN='\033[0;32m'
+NC='\033[0m' # No Color
+
 # Ora Protokol Node Kurulum Script'i
 
 # 1. Sistemi güncelle ve yükselt
@@ -32,15 +35,15 @@ echo "|"
 echo "|"
 
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
-echo "\033[31mMetamask Özel Anahtarınızı girin:\033[0m"
+echo -e "${GREEN}Metamask Özel Anahtarınızı girin:${NC}"
 read PRIVATE_KEY
-echo "ETH MAINNET WSS URL'nizi girin:"
+echo -e "${GREEN}ETH MAINNET WSS URL'nizi girin:${NC}"
 read MAINNET_WSS
-echo "ETH MAINNET HTTP URL'nizi girin:"
+echo -e "${GREEN}ETH MAINNET HTTP URL'nizi girin:${NC}"
 read MAINNET_HTTP
-echo "ETH SEPOLIA WSS URL'nizi girin:"
+echo -e "${GREEN}ETH SEPOLIA WSS URL'nizi girin:${NC}"
 read SEPOLIA_WSS
-echo "ETH SEPOLIA HTTP URL'nizi girin:"
+echo -e "${GREEN}ETH SEPOLIA HTTP URL'nizi girin:${NC}"
 read SEPOLIA_HTTP
 
 # 7. .env dosyasındaki boş değerleri kullanıcı girdileri ile güncelle
