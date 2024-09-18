@@ -1,7 +1,5 @@
 ![GRAiWvUbsAARfpK](https://github.com/user-attachments/assets/4508306b-a99e-4cd3-8fdf-42f26ee00265)
 
-Kurulum videosu  : [Link](https://youtu.be/)
-
 # Ora Protokol Node Kurulumu
 
 # Sunucu Gereksinimleri
@@ -18,6 +16,8 @@ Ben hetzner'in cx32 6.30€'luk sunucusunu aldım yeterli olur.
 
 Yeni kayıt olanlara digitalocean 2 aylık 200$ free hesap veriyor daha önce kullanmadıysanız bu [Link](https://t.co/5O8WuAtuHs)'e gidip kayıt olarak ücretsiz sunucu alabilirsiniz.
 
+Kurulum videosu : [Link](https://youtu.be/)
+
 İlk başta bir tane metamask cüzdanı kuralım veya mevcutta varsa onu da kullanabilirsiniz.(içerisinde varlık olan cüzdanı kullanmanızı tavsiye etmiyorum yeni açın ne olur ne olmaz)
 
 Kurulumda RPC kullanıcaz ben Alchemy'den aldım [Alchemy Link](https://dashboard.alchemy.com/)
@@ -26,7 +26,7 @@ ETH Sepolia ağında da test ETH'ye ihtiyacımız olacak bunun için herhangi bi
 
 Kurulumdan önce RPC'leri ve Faucet'i hazır edin.
 
-Başlamadan önce Bu[Link](https://www.ora.io/app/points-program)'e giderek metamaskınız bağlayın ve kayıt olun referans kısmına benim referans kodumu girebilirsiniz size 5 puan verecek. 
+Başlamadan önce Bu[Link](https://www.ora.io/app/points-program)'e giderek metamaskınızı bağlayın ve kayıt olun referans kısmına benim referans kodumu girebilirsiniz size 5 puan verecek. 
 
 Ref Kodum ;
 
