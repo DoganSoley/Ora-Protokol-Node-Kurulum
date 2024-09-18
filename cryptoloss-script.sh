@@ -26,7 +26,8 @@ cd tora-docker-compose
 # 5. .env.example dosyasını .env olarak kopyala
 echo ".env.example dosyası .env olarak kopyalanıyor..."
 cp .env.example .env
-
+""
+""
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
 echo "Metamask Özel Anahtarınızı girin:"
 read PRIVATE_KEY
