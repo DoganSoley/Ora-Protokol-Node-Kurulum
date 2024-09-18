@@ -35,15 +35,15 @@ echo "|"
 echo "|"
 
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
-echo -e "${GREEN}Metamask Özel Anahtarınızı girin:${NC}"
+echo -e "${GREEN}Metamask Özel Anahtarınızı Girin:${NC}"
 read PRIVATE_KEY
-echo -e "${GREEN}ETH MAINNET WSS URL'nizi girin:${NC}"
+echo -e "${GREEN}ETH MAINNET WSS URL'nizi Girin:${NC}"
 read MAINNET_WSS
-echo -e "${GREEN}ETH MAINNET HTTP URL'nizi girin:${NC}"
+echo -e "${GREEN}ETH MAINNET HTTP URL'nizi Girin:${NC}"
 read MAINNET_HTTP
-echo -e "${GREEN}ETH SEPOLIA WSS URL'nizi girin:${NC}"
+echo -e "${GREEN}ETH SEPOLIA WSS URL'nizi Girin:${NC}"
 read SEPOLIA_WSS
-echo -e "${GREEN}ETH SEPOLIA HTTP URL'nizi girin:${NC}"
+echo -e "${GREEN}ETH SEPOLIA HTTP URL'nizi Girin:${NC}"
 read SEPOLIA_HTTP
 
 # 7. .env dosyasındaki boş değerleri kullanıcı girdileri ile güncelle
