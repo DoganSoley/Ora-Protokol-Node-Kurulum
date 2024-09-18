@@ -10,11 +10,15 @@ NC='\033[0m'
 # Ora Protokol Node Kurulum Script'i
 
 # 1. Sistemi güncelle ve yükselt
+echo " "
 echo -e "${GREEN}Sistem güncelleniyor ve yükseltiliyor...${NC}"
+echo " "
 sudo apt update -y && sudo apt upgrade -y
 
 # 2. Docker ve Docker Compose'u yükle
+echo " "
 echo -e "${GREEN}Docker ve Docker Compose yükleniyor...${NC}"
+echo " "
 sudo apt-get install apt-transport-https ca-certificates curl software-properties-common -y
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
@@ -26,18 +30,19 @@ sudo apt-get install docker-ce docker-compose -y
 git config --global --unset credential.helper
 
 # 4. Ora Protokol repository'sini HTTPS kullanarak klonla (public repo)
+echo " "
 echo -e "${GREEN}Ora Protokol repository'si klonlanıyor...${NC}"
+echo " "
 git clone https://github.com/ora-io/tora-docker-compose || { echo "Repository klonlanamadı. Çıkış yapılıyor."; exit 1; }
 cd tora-docker-compose
 
 # 5. .env.example dosyasını .env olarak kopyala
+echo " "
 echo -e "${GREEN}.env.example dosyası .env olarak kopyalanıyor...${NC}"
+echo " "
 cp .env.example .env
-
 echo " "
 echo " "
-echo " "
-
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
 echo -e "${GREEN}Metamask Özel Anahtarınızı Girin:${NC}"
 read PRIVATE_KEY
