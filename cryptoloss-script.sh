@@ -83,12 +83,11 @@ echo " "
 echo " "
 sysctl vm.overcommit_memory=1
 docker-compose up -d
-echo "|"
-echo "|"
+echo " "
 echo -e "${GREEN}Ora Protokol Node kurulumu tamamlandı.${NC}"
-echo "|"
+echo " "
 echo -e "${GREEN}Log kontrol için : ${NC}""${YELLOW}docker logs -f ora-tora${NC}"
-echo "|"
+echo " "
 echo -e "${GREEN}Sorularınız için ${NC}""${YELLOW}t.me/CryptolossChat${NC}""${GREEN} telegram kanalına gelebilirsiniz.${NC}"
 
 
