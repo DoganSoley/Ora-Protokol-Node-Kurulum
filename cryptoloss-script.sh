@@ -28,15 +28,15 @@ echo ".env.example dosyası .env olarak kopyalanıyor..."
 cp .env.example .env
 
 # 6. Ortam değişkenleri için kullanıcı girdilerini iste
-echo "Lütfen Metamask Özel Anahtarınızı girin:"
+echo "Metamask Özel Anahtarınızı girin:"
 read PRIVATE_KEY
-echo "Lütfen MAINNET WSS URL'nizi girin:"
+echo "ETH MAINNET WSS URL'nizi girin:"
 read MAINNET_WSS
-echo "Lütfen MAINNET HTTP URL'nizi girin:"
+echo "ETH MAINNET HTTP URL'nizi girin:"
 read MAINNET_HTTP
-echo "Lütfen SEPOLIA WSS URL'nizi girin:"
+echo "ETH SEPOLIA WSS URL'nizi girin:"
 read SEPOLIA_WSS
-echo "Lütfen SEPOLIA HTTP URL'nizi girin:"
+echo "ETH SEPOLIA HTTP URL'nizi girin:"
 read SEPOLIA_HTTP
 
 # 7. .env dosyasındaki boş değerleri kullanıcı girdileri ile güncelle
@@ -48,33 +48,32 @@ sed -i "s|SEPOLIA_WSS=\"\"|SEPOLIA_WSS=\"${SEPOLIA_WSS}\"|" .env
 sed -i "s|SEPOLIA_HTTP=\"\"|SEPOLIA_HTTP=\"${SEPOLIA_HTTP}\"|" .env
 
 # 8. CRYPTOLOSS
-.
-.
-.
-.
-
+""
+""
+""
+""
 echo "#########################################"
 echo "#                                       #"
 echo "#            CRYPTOLOSS                 #"
 echo "#                                       #"
 echo "#########################################"
-.
-.
+""
+""
 echo "#### Twitter : @Cryptoloss1 #####"
-.
-.
-.
+""
+""
+""
 # 9. Docker Compose kullanarak node'u başlat
 echo "Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir..."
 sysctl vm.overcommit_memory=1
 docker-compose up -d
-.
-.
+""
+""
 echo "Ora Protokol Node kurulumu tamamlandı."
-.
+""
 echo "Log kontrol için : docker logs -f ora-tora"
-.
-.
+""
+""
 echo "Sorularınız için t.me/CryptolossChat telegram kanalına gelebilirsiniz."
 
 
