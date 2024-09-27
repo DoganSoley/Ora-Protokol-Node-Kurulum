@@ -62,6 +62,7 @@ sed -i "s|MAINNET_WSS=\"\"|MAINNET_WSS=\"${MAINNET_WSS}\"|" .env
 sed -i "s|MAINNET_HTTP=\"\"|MAINNET_HTTP=\"${MAINNET_HTTP}\"|" .env
 sed -i "s|SEPOLIA_WSS=\"\"|SEPOLIA_WSS=\"${SEPOLIA_WSS}\"|" .env
 sed -i "s|SEPOLIA_HTTP=\"\"|SEPOLIA_HTTP=\"${SEPOLIA_HTTP}\"|" .env
+sed -i "s|CONFIRM_CHAINS='.*'|CONFIRM_CHAINS='[\"sepolia\",\"mainnet\"]'|" .env
 
 # 8. CRYPTOLOSS
 echo " "
