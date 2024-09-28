@@ -30,7 +30,11 @@ Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek met
 
 > ## **Ref Kodum : `NZSSYZ`**
 
-## Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül olacağı söylenmedi ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
+
+
+## ÖNEMLİ !! Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette en az 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül olacağı söylenmedi ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
+
+
 
 Kurulum tek kod halinde sunucuya bağlandıktan sonra direkt bu kodu girin yüklenirken arada ENTER diye soracak ENTER'a tıklayıp devam edin.
 
@@ -67,4 +71,9 @@ Daha sonra node'ye tekrar geri gelip log kontrol kodunu tekrar yazın ;
 
 Bu şekilde bir tx çıktısı aldıysanız tamamdır CTRL + C ile veya direkt terminali kapatarak çıkabilirsiniz o çalışmaya devam eder.Kontrol etmek için 1-2 günde bir girip arada log kontrol koduyla çalışıp çalışmadığına bakabilirsiniz.
 
-Puanlarınızı bu [Link](https://www.ora.io/app/tasks/dashboard)'den kontrol edebilirsiniz.
+Puanlarınızı bu [Link](https://www.ora.io/app/tasks/dashboard)'den kontrol edebilirsiniz.Cüzdanınıza mainnette ETH attıysanız görseldeki gibi "Point History" kısmında onaylanan her işlem için 3 puan verdiğini görebilirsiniz.
+
+![image](https://github.com/user-attachments/assets/b37348ae-0286-449c-8c10-4b2f81da8d48)
+
+
+
