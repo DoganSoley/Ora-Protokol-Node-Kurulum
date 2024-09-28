@@ -77,3 +77,5 @@ Puanlarınızı bu [Link](https://www.ora.io/app/tasks/dashboard)'den kontrol ed
 ![image](https://github.com/user-attachments/assets/b37348ae-0286-449c-8c10-4b2f81da8d48)
 
 Bu [Link](https://www.ora.io/app/opml/openlmchat)'e giderek arb ağında 1$ gas fee ile promt üretirseniz de 6 puan veriyor.
+
+![image](https://github.com/user-attachments/assets/62d84e64-9788-47a9-8e38-421e60ad16f3)
