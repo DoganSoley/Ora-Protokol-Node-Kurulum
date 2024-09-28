@@ -30,7 +30,7 @@ Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek met
 
 > ## **Ref Kodum : `NZSSYZ`**
 
-
+## Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül olacağı söylenmedi ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
 
 Kurulum tek kod halinde sunucuya bağlandıktan sonra direkt bu kodu girin yüklenirken arada ENTER diye soracak ENTER'a tıklayıp devam edin.
 
