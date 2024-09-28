@@ -32,7 +32,7 @@ Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek met
 
 
 
-## ÖNEMLİ !! Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette en az 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül olacağı söylenmedi ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
+## ÖNEMLİ !! Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette en az 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül programı olmadıklarını söylediler ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
 
 
 
