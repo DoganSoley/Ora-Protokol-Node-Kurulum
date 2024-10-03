@@ -32,7 +32,9 @@ Başlamadan önce Bu [Link](https://www.ora.io/app/points-program)'e giderek met
 
 
 
-## ÖNEMLİ !! Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette en az 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor bilginiz olsun.Testnet için bir ödül programı olmadıklarını söylediler ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
+## ÖNEMLİ !! Puan sadece mainnet işlemlerine veriliyor aşağıdaki kurulum hem mainnet hem testnet aynı anda çalışıyor.Eğer puan almak istiyorsanız kurulumu yapmadan önce cüzdanınıza mainnette en az 0.02 ETH atmanız gerekiyor onaylanan işlem başına gwei durumuna göre 1-3$ arasında kesti bende, karşılığında da 3 puan veriyor mainnette çalıştırmak çok mantıklı görünmüyor o yüzden biz şuan çalıştırmıyoruz bilginiz olsun.Testnet için bir ödül programı olmadıklarını söylediler ama yine de şansını denemek isteyenler mainnet için bütçeniz yoksa testnette çalıştırabilirsiniz size kalmış.
+
+Daha uygun maliyetli puan kazanmak için de bu [Link](https://www.ora.io/app/opml/openlmchat)'e giderek arb ağında 1$ gas fee ile promt üretirseniz de 6 puan veriyor.Ya da bütçenize göre 6 aylık OLM stake edebilirsiniz.
 
 
 
@@ -75,7 +77,3 @@ Bu şekilde bir tx çıktısı aldıysanız tamamdır CTRL + C ile veya direkt t
 Puanlarınızı bu [Link](https://www.ora.io/app/tasks/dashboard)'den kontrol edebilirsiniz.Cüzdanınıza mainnette ETH attıysanız görseldeki gibi "Point History" kısmında onaylanan her işlem için 3 puan verdiğini görebilirsiniz.
 
 ![image](https://github.com/user-attachments/assets/b37348ae-0286-449c-8c10-4b2f81da8d48)
-
-Bu [Link](https://www.ora.io/app/opml/openlmchat)'e giderek arb ağında 1$ gas fee ile promt üretirseniz de 6 puan veriyor.
-
-![image](https://github.com/user-attachments/assets/62d84e64-9788-47a9-8e38-421e60ad16f3)
